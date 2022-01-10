@@ -1,0 +1,15 @@
+User-agent: *
+Disallow:
+
+User-agent: *
+Allow: /
+
+Sitemap:https://ex-school.com/sitemap
+Sitemap:https://ex-school.com/sitemap/posts
+Sitemap:https://ex-school.com/sitemap/event
+Sitemap:https://ex-school.com/sitemap/categories
+Sitemap:https://ex-school.com/sitemap/forum
+
+#Begin Attracta SEO Tools Sitemap. Do not remove
+sitemap: http://cdn.attracta.com/sitemap/5383335.xml.gz
+#End Attracta SEO Tools Sitemap. Do not remove

@@ -1,0 +1,49 @@
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+    <url>
+      <loc>https://ex-school.com/</loc>
+      <lastmod>2018-06-01T06:55:42+00:00</lastmod>
+      <priority>1.00</priority>
+    </url>
+    <url>
+      <loc>https://ex-school.com/article</loc>
+      <lastmod>2018-06-01T06:55:42+00:00</lastmod>
+      <priority>0.80</priority>
+    </url>
+    <url>
+      <loc>https://ex-school.com/event</loc>
+      <lastmod>2018-06-01T06:55:42+00:00</lastmod>
+      <priority>0.80</priority>
+    </url>
+    <url>
+      <loc>https://ex-school.com/login</loc>
+      <lastmod>2018-06-01T06:55:42+00:00</lastmod>
+      <priority>0.80</priority>
+    </url>
+    <url>
+      <loc>https://ex-school.com/register</loc>
+      <lastmod>2018-06-01T06:55:42+00:00</lastmod>
+      <priority>0.80</priority>
+    </url>
+    <url>
+      <loc>https://ex-school.com/publikasi-event</loc>
+      <lastmod>2018-06-01T06:55:42+00:00</lastmod>
+      <priority>0.80</priority>
+    </url>
+    <url>
+      <loc>https://ex-school.com/article?page=2</loc>
+      <lastmod>2018-06-01T06:55:42+00:00</lastmod>
+      <priority>0.64</priority>
+    </url>
+    <url>
+      <loc>https://ex-school.com/article?page=3</loc>
+      <lastmod>2018-06-01T06:55:42+00:00</lastmod>
+      <priority>0.64</priority>
+    </url>
+
+
+
+  </urlset>

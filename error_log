@@ -1,0 +1,278 @@
+[28-Dec-2017 14:52:39 UTC] PHP Warning:  require(/home/exschool/public_html/../bootstrap/autoload.php): failed to open stream: No such file or directory in /home/exschool/public_html/index.php on line 22
+[28-Dec-2017 14:52:39 UTC] PHP Fatal error:  require(): Failed opening required '/home/exschool/public_html/../bootstrap/autoload.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/exschool/public_html/index.php on line 22
+[28-Dec-2017 14:52:59 UTC] PHP Warning:  require(/home/exschool/public_html/../bootstrap/autoload.php): failed to open stream: No such file or directory in /home/exschool/public_html/index.php on line 22
+[28-Dec-2017 14:52:59 UTC] PHP Fatal error:  require(): Failed opening required '/home/exschool/public_html/../bootstrap/autoload.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/exschool/public_html/index.php on line 22
+[28-Dec-2017 14:53:39 UTC] PHP Warning:  require(/home/exschool/public_html/../bootstrap/autoload.php): failed to open stream: No such file or directory in /home/exschool/public_html/index.php on line 22
+[28-Dec-2017 14:53:39 UTC] PHP Fatal error:  require(): Failed opening required '/home/exschool/public_html/../bootstrap/autoload.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/exschool/public_html/index.php on line 22
+[28-Dec-2017 23:25:02 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[29-Dec-2017 07:02:59 UTC] PHP Fatal error:  Call to a member function store() on null in /home/exschool/exschool/app/Http/Controllers/UserController.php on line 21
+[29-Dec-2017 07:12:32 UTC] PHP Fatal error:  Call to a member function store() on null in /home/exschool/exschool/app/Http/Controllers/UserController.php on line 21
+[29-Dec-2017 08:11:07 UTC] PHP Warning:  symlink(): Permission denied in /home/exschool/public_html/symlink.php on line 4
+[30-Dec-2017 01:30:05 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[30-Dec-2017 01:30:24 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[30-Dec-2017 04:33:54 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/exschool/exschool/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 2780
+[30-Dec-2017 04:35:21 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/exschool/exschool/vendor/laravel/framework/src/Illuminate/Support/Str.php on line 0
+[30-Dec-2017 04:36:34 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/exschool/exschool/vendor/laravel/framework/src/Illuminate/Support/Arr.php on line 18
+[30-Dec-2017 04:50:58 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/exschool/exschool/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 3534
+[30-Dec-2017 05:27:50 UTC] PHP Fatal error:  Call to a member function store() on null in /home/exschool/exschool/app/Http/Controllers/HomeController.php on line 221
+[30-Dec-2017 05:30:15 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[30-Dec-2017 05:30:15 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[30-Dec-2017 05:30:18 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[30-Dec-2017 05:30:19 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[30-Dec-2017 05:30:23 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[30-Dec-2017 05:30:25 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[30-Dec-2017 06:10:27 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[30-Dec-2017 07:52:05 UTC] PHP Fatal error:  Call to a member function store() on null in /home/exschool/exschool/app/Http/Controllers/HomeController.php on line 221
+[30-Dec-2017 09:30:06 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[30-Dec-2017 09:30:06 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[30-Dec-2017 09:30:08 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[30-Dec-2017 09:30:08 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[30-Dec-2017 09:30:08 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[30-Dec-2017 09:30:10 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[30-Dec-2017 09:30:11 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[30-Dec-2017 09:30:15 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[30-Dec-2017 09:30:15 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[30-Dec-2017 09:30:22 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[30-Dec-2017 09:30:22 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[30-Dec-2017 09:30:23 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[30-Dec-2017 09:30:24 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[30-Dec-2017 09:36:35 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[30-Dec-2017 09:42:16 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[30-Dec-2017 10:04:50 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[30-Dec-2017 10:09:36 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/exschool/exschool/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 3489
+[30-Dec-2017 10:09:37 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/exschool/exschool/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 2615
+[30-Dec-2017 11:42:27 UTC] PHP Fatal error:  Call to a member function store() on null in /home/exschool/exschool/app/Http/Controllers/profileController.php on line 72
+[30-Dec-2017 12:05:38 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[30-Dec-2017 12:51:21 UTC] PHP Fatal error:  Call to a member function store() on null in /home/exschool/exschool/app/Http/Controllers/HomeController.php on line 221
+[30-Dec-2017 13:09:09 UTC] PHP Fatal error:  Call to a member function store() on null in /home/exschool/exschool/app/Http/Controllers/HomeController.php on line 221
+[30-Dec-2017 13:10:35 UTC] PHP Fatal error:  Call to a member function store() on null in /home/exschool/exschool/app/Http/Controllers/HomeController.php on line 221
+[30-Dec-2017 13:10:42 UTC] PHP Fatal error:  Call to a member function store() on null in /home/exschool/exschool/app/Http/Controllers/HomeController.php on line 221
+[30-Dec-2017 13:10:48 UTC] PHP Fatal error:  Call to a member function store() on null in /home/exschool/exschool/app/Http/Controllers/HomeController.php on line 221
+[30-Dec-2017 13:10:58 UTC] PHP Fatal error:  Call to a member function store() on null in /home/exschool/exschool/app/Http/Controllers/HomeController.php on line 221
+[30-Dec-2017 13:11:02 UTC] PHP Fatal error:  Call to a member function store() on null in /home/exschool/exschool/app/Http/Controllers/HomeController.php on line 221
+[30-Dec-2017 13:13:19 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[30-Dec-2017 13:30:12 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[30-Dec-2017 13:30:15 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[30-Dec-2017 13:30:16 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[30-Dec-2017 13:30:20 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[30-Dec-2017 13:30:21 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[30-Dec-2017 13:30:21 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[30-Dec-2017 13:30:27 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[30-Dec-2017 13:30:27 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[30-Dec-2017 13:30:29 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[30-Dec-2017 13:30:34 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[30-Dec-2017 13:38:37 UTC] PHP Fatal error:  Call to a member function store() on null in /home/exschool/exschool/app/Http/Controllers/HomeController.php on line 221
+[30-Dec-2017 13:49:44 UTC] PHP Fatal error:  Call to a member function store() on null in /home/exschool/exschool/app/Http/Controllers/HomeController.php on line 221
+[30-Dec-2017 13:49:45 UTC] PHP Fatal error:  Call to a member function store() on null in /home/exschool/exschool/app/Http/Controllers/HomeController.php on line 221
+[30-Dec-2017 15:37:05 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[30-Dec-2017 15:45:34 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[30-Dec-2017 15:45:46 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[30-Dec-2017 15:46:05 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[30-Dec-2017 15:46:16 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[30-Dec-2017 15:46:30 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[30-Dec-2017 15:46:37 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[30-Dec-2017 15:47:38 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[30-Dec-2017 15:48:02 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[30-Dec-2017 15:59:56 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[30-Dec-2017 16:07:21 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[30-Dec-2017 16:07:33 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[30-Dec-2017 16:08:07 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[30-Dec-2017 16:08:16 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[30-Dec-2017 16:08:24 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[30-Dec-2017 16:10:23 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[30-Dec-2017 16:15:10 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[30-Dec-2017 16:15:29 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[30-Dec-2017 16:16:58 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[30-Dec-2017 16:18:34 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[30-Dec-2017 16:20:34 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[30-Dec-2017 17:01:55 UTC] PHP Fatal error:  Call to a member function store() on null in /home/exschool/exschool/app/Http/Controllers/UserController.php on line 21
+[30-Dec-2017 17:30:32 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[31-Dec-2017 01:29:21 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[31-Dec-2017 01:30:11 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[31-Dec-2017 01:30:12 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[31-Dec-2017 01:30:24 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[31-Dec-2017 01:30:25 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[31-Dec-2017 01:30:26 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[31-Dec-2017 01:30:27 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[31-Dec-2017 01:31:13 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[31-Dec-2017 05:30:15 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[31-Dec-2017 05:30:18 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[31-Dec-2017 05:30:23 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[31-Dec-2017 05:41:38 UTC] PHP Fatal error:  Call to a member function store() on null in /home/exschool/exschool/app/Http/Controllers/HomeController.php on line 221
+[31-Dec-2017 06:34:30 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[31-Dec-2017 09:00:37 UTC] PHP Fatal error:  Call to a member function store() on null in /home/exschool/exschool/app/Http/Controllers/HomeController.php on line 221
+[31-Dec-2017 09:30:13 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[31-Dec-2017 09:30:18 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[31-Dec-2017 09:30:22 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[31-Dec-2017 09:30:23 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[31-Dec-2017 09:30:28 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[31-Dec-2017 09:30:30 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[31-Dec-2017 09:30:30 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[31-Dec-2017 09:43:07 UTC] PHP Fatal error:  Call to a member function store() on null in /home/exschool/exschool/app/Http/Controllers/UserController.php on line 21
+[31-Dec-2017 10:02:36 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[31-Dec-2017 10:02:59 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[31-Dec-2017 10:03:37 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[31-Dec-2017 10:53:02 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[31-Dec-2017 13:30:25 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[31-Dec-2017 17:30:14 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[01-Jan-2018 01:30:15 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[01-Jan-2018 01:30:23 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[01-Jan-2018 03:19:57 UTC] PHP Fatal error:  Call to a member function store() on null in /home/exschool/exschool/app/Http/Controllers/UserController.php on line 21
+[01-Jan-2018 05:30:16 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[01-Jan-2018 05:30:20 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[01-Jan-2018 05:30:27 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[01-Jan-2018 09:30:21 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[01-Jan-2018 16:42:04 UTC] PHP Fatal error:  Call to a member function store() on null in /home/exschool/exschool/app/Http/Controllers/UserController.php on line 21
+[02-Jan-2018 09:30:20 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[03-Jan-2018 13:30:10 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[03-Jan-2018 13:30:25 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[05-Jan-2018 01:30:17 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[05-Jan-2018 03:58:51 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[05-Jan-2018 03:58:59 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[05-Jan-2018 13:30:43 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[05-Jan-2018 13:30:44 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[06-Jan-2018 04:03:55 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[07-Jan-2018 09:38:43 UTC] PHP Fatal error:  Call to a member function store() on null in /home/exschool/exschool/app/Http/Controllers/UserController.php on line 21
+[07-Jan-2018 10:57:46 UTC] PHP Fatal error:  Call to a member function store() on null in /home/exschool/exschool/app/Http/Controllers/HomeController.php on line 222
+[10-Jan-2018 08:34:09 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[10-Jan-2018 15:50:06 UTC] PHP Fatal error:  Call to a member function store() on null in /home/exschool/exschool/app/Http/Controllers/HomeController.php on line 222
+[11-Jan-2018 14:14:44 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[16-Jan-2018 14:15:28 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[18-Jan-2018 14:42:01 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[18-Jan-2018 14:42:59 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[18-Jan-2018 14:43:46 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[18-Jan-2018 14:48:39 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[19-Jan-2018 23:08:28 UTC] PHP Fatal error:  Call to a member function store() on null in /home/exschool/exschool/app/Http/Controllers/UserController.php on line 21
+[07-Feb-2018 04:29:16 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[16-Feb-2018 01:55:59 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[16-Feb-2018 02:32:02 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[16-Feb-2018 06:58:04 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[17-Feb-2018 09:27:50 UTC] PHP Fatal error:  Class 'App\Http\Controllers\DetailUser' not found in /home/exschool/exschool/app/Http/Controllers/profileController.php on line 90
+[17-Feb-2018 09:31:00 UTC] PHP Fatal error:  Class 'App\Http\Controllers\DetailUser' not found in /home/exschool/exschool/app/Http/Controllers/profileController.php on line 90
+[17-Feb-2018 09:58:51 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[17-Feb-2018 10:00:16 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[17-Feb-2018 10:02:12 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[17-Feb-2018 10:02:17 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[17-Feb-2018 10:02:40 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[17-Feb-2018 10:05:04 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[17-Feb-2018 10:14:57 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[17-Feb-2018 10:15:21 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[17-Feb-2018 10:39:12 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[17-Feb-2018 10:39:18 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[04-Mar-2018 14:18:17 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[04-Mar-2018 14:23:12 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[04-Mar-2018 14:23:12 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[04-Mar-2018 14:23:12 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[04-Mar-2018 14:23:13 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[04-Mar-2018 14:23:53 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[07-Mar-2018 13:24:33 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[07-Mar-2018 13:24:42 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[07-Mar-2018 13:52:56 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[07-Mar-2018 13:52:57 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[07-Mar-2018 13:58:36 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[10-Mar-2018 13:42:34 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[10-Mar-2018 13:42:42 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[10-Mar-2018 13:42:54 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[10-Mar-2018 14:37:14 UTC] PHP Fatal error:  Call to a member function increment() on null in /home/exschool/exschool/app/Http/Controllers/HomeController.php on line 69
+[10-Mar-2018 14:37:21 UTC] PHP Fatal error:  Call to a member function increment() on null in /home/exschool/exschool/app/Http/Controllers/HomeController.php on line 69
+[11-Mar-2018 01:24:07 UTC] PHP Fatal error:  Call to a member function increment() on null in /home/exschool/exschool/app/Http/Controllers/HomeController.php on line 69
+[11-Mar-2018 01:24:11 UTC] PHP Fatal error:  Call to a member function increment() on null in /home/exschool/exschool/app/Http/Controllers/HomeController.php on line 69
+[11-Mar-2018 01:24:17 UTC] PHP Fatal error:  Call to a member function increment() on null in /home/exschool/exschool/app/Http/Controllers/HomeController.php on line 69
+[14-Mar-2018 08:19:12 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[14-Mar-2018 08:35:06 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[14-Mar-2018 08:42:14 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[17-Mar-2018 14:14:57 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[17-Mar-2018 14:15:05 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[17-Mar-2018 14:15:11 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[17-Mar-2018 14:15:13 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[17-Mar-2018 14:15:15 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[14-Apr-2018 14:20:02 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[20-Apr-2018 04:39:23 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[20-Apr-2018 04:40:24 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[24-Apr-2018 14:39:55 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[24-Apr-2018 14:39:55 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[24-Apr-2018 14:39:59 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[24-Apr-2018 14:51:39 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[24-Apr-2018 14:54:04 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[24-Apr-2018 14:54:08 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[13-May-2018 08:23:16 UTC] PHP Fatal error:  Call to a member function increment() on null in /home/exschool/exschool/app/Http/Controllers/HomeController.php on line 69
+[16-May-2018 13:52:59 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/exschool/exschool/storage/framework/views/5e1bce6e20a8c6d578a81802bf86e508ee5543f2.php on line 8
+[16-May-2018 13:53:23 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/exschool/exschool/storage/framework/views/5e1bce6e20a8c6d578a81802bf86e508ee5543f2.php on line 8
+[16-May-2018 13:54:40 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/exschool/exschool/storage/framework/views/5e1bce6e20a8c6d578a81802bf86e508ee5543f2.php on line 8
+[16-May-2018 13:56:01 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/exschool/exschool/storage/framework/views/5e1bce6e20a8c6d578a81802bf86e508ee5543f2.php on line 8
+[16-May-2018 13:57:27 UTC] PHP Parse error:  syntax error, unexpected 'withSet' (T_STRING) in /home/exschool/exschool/app/Http/Controllers/Auth/RegisterController.php on line 91
+[21-May-2018 08:18:03 UTC] PHP Warning:  require(/home/exschool/public_html/../exschool/bootstrap/autoload.php): failed to open stream: No such file or directory in /home/exschool/public_html/index.php on line 22
+[21-May-2018 08:18:03 UTC] PHP Fatal error:  require(): Failed opening required '/home/exschool/public_html/../exschool/bootstrap/autoload.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/exschool/public_html/index.php on line 22
+[21-May-2018 08:21:42 UTC] PHP Warning:  require(/home/exschool/public_html/../exschool/bootstrap/autoload.php): failed to open stream: No such file or directory in /home/exschool/public_html/index.php on line 22
+[21-May-2018 08:21:42 UTC] PHP Fatal error:  require(): Failed opening required '/home/exschool/public_html/../exschool/bootstrap/autoload.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/exschool/public_html/index.php on line 22
+[21-May-2018 08:22:43 UTC] PHP Warning:  require(/home/exschool/public_html/../exschool/bootstrap/autoload.php): failed to open stream: No such file or directory in /home/exschool/public_html/index.php on line 22
+[21-May-2018 08:22:43 UTC] PHP Fatal error:  require(): Failed opening required '/home/exschool/public_html/../exschool/bootstrap/autoload.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/exschool/public_html/index.php on line 22
+[21-May-2018 08:23:43 UTC] PHP Warning:  require(/home/exschool/public_html/../exschool/bootstrap/autoload.php): failed to open stream: No such file or directory in /home/exschool/public_html/index.php on line 22
+[21-May-2018 08:23:43 UTC] PHP Fatal error:  require(): Failed opening required '/home/exschool/public_html/../exschool/bootstrap/autoload.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/exschool/public_html/index.php on line 22
+[21-May-2018 08:31:23 UTC] PHP Warning:  require(/home/exschool/public_html/../exschool/bootstrap/autoload.php): failed to open stream: No such file or directory in /home/exschool/public_html/index.php on line 22
+[21-May-2018 08:31:23 UTC] PHP Fatal error:  require(): Failed opening required '/home/exschool/public_html/../exschool/bootstrap/autoload.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/exschool/public_html/index.php on line 22
+[21-May-2018 08:36:00 UTC] PHP Warning:  require(/home/exschool/public_html/../exschool/bootstrap/autoload.php): failed to open stream: No such file or directory in /home/exschool/public_html/index.php on line 22
+[21-May-2018 08:36:00 UTC] PHP Fatal error:  require(): Failed opening required '/home/exschool/public_html/../exschool/bootstrap/autoload.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/exschool/public_html/index.php on line 22
+[21-May-2018 08:37:00 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOException.php on line 56
+[21-May-2018 08:37:22 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOException.php on line 56
+[21-May-2018 08:37:41 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOException.php on line 56
+[21-May-2018 08:38:01 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOException.php on line 56
+[21-May-2018 08:38:24 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOException.php on line 56
+[21-May-2018 08:39:02 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOException.php on line 56
+[21-May-2018 08:39:49 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOException.php on line 56
+[21-May-2018 08:40:25 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOException.php on line 56
+[21-May-2018 08:40:46 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOException.php on line 56
+[21-May-2018 08:42:34 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOException.php on line 56
+[21-May-2018 08:43:33 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOException.php on line 56
+[21-May-2018 08:44:33 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOException.php on line 56
+[21-May-2018 08:45:34 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOException.php on line 56
+[21-May-2018 08:46:03 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOException.php on line 56
+[21-May-2018 08:46:34 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOException.php on line 56
+[21-May-2018 08:46:51 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOException.php on line 56
+[21-May-2018 08:46:53 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOException.php on line 56
+[21-May-2018 08:47:03 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOException.php on line 56
+[21-May-2018 08:47:34 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOException.php on line 56
+[21-May-2018 08:48:04 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOException.php on line 56
+[21-May-2018 08:49:07 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOException.php on line 56
+[21-May-2018 08:51:34 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOException.php on line 56
+[21-May-2018 08:52:50 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOException.php on line 56
+[21-May-2018 09:01:42 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOException.php on line 56
+[21-May-2018 09:01:47 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOException.php on line 56
+[21-May-2018 09:02:48 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOException.php on line 56
+[21-May-2018 09:03:49 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOException.php on line 56
+[21-May-2018 09:05:04 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOException.php on line 56
+[21-May-2018 09:08:03 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOException.php on line 56
+[21-May-2018 09:08:07 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOException.php on line 56
+[21-May-2018 09:11:09 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOException.php on line 56
+[21-May-2018 09:11:11 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOException.php on line 56
+[21-May-2018 09:11:23 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOException.php on line 56
+[21-May-2018 09:11:26 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOException.php on line 56
+[21-May-2018 09:18:30 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOException.php on line 56
+[21-May-2018 09:18:36 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOException.php on line 56
+[21-May-2018 09:18:37 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOException.php on line 56
+[21-May-2018 09:22:51 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOException.php on line 56
+[21-May-2018 09:23:53 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOException.php on line 56
+[21-May-2018 09:24:54 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOException.php on line 56
+[21-May-2018 09:25:55 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOException.php on line 56
+[21-May-2018 09:26:42 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOException.php on line 56
+[21-May-2018 09:26:43 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOException.php on line 56
+[21-May-2018 09:26:43 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOException.php on line 56
+[21-May-2018 09:26:44 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOException.php on line 56
+[21-May-2018 09:26:46 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOException.php on line 56
+[21-May-2018 09:27:41 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOException.php on line 56
+[21-May-2018 09:39:03 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOException.php on line 56
+[21-May-2018 09:39:03 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOException.php on line 56
+[21-May-2018 09:39:07 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOException.php on line 56
+[21-May-2018 09:41:26 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOException.php on line 57
+[21-May-2018 09:41:26 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOException.php on line 57
+[21-May-2018 09:41:30 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOException.php on line 57
+[21-May-2018 09:42:44 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[21-May-2018 09:47:34 UTC] PHP Fatal error:  Interface 'Throwable' not found in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/DriverException.php on line 33
+[21-May-2018 09:47:40 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOException.php on line 56
+[21-May-2018 09:54:40 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOException.php on line 56
+[21-May-2018 09:56:23 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOException.php on line 56
+[23-May-2018 07:12:57 UTC] PHP Fatal error:  Can't use method return value in write context in /home/exschool/exschool/storage/framework/views/75113f3532c01042911b8cac01dbc788391f6598.php on line 42
+[22-Jun-2018 12:22:35 UTC] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOStatement.php on line 40
+[22-Jun-2018 12:32:36 UTC] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOStatement.php on line 40
+[22-Jun-2018 12:36:12 UTC] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOStatement.php on line 40
+[22-Jun-2018 12:37:32 UTC] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/exschool/exschool/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOStatement.php on line 40
